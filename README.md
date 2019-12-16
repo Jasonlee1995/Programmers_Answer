@@ -1,1 +1,17 @@
-Programmers_answer
+# Programmers Answer
+- Programmers Algorithm site : <https://programmers.co.kr/>
+- 문제가 변경되거나 빠진 풀이가 있다면 issue를 남겨주시면 됩니다
+- 본 풀이는 스스로 풀었기에 최적이 아닐 수 있음을 미리 알려드립니다
+
+### Level 1
+- [2020 KAKAO BLIND RECRUITMENT] 문자열 압축
+- [완전탐색] 모의고사
+- [정렬] K번째수
+- [해시] 완주하지 못한 선수
+
+
+### Level 2
+
+### Level 3
+
+### Level 4
