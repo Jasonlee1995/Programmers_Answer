@@ -1,9 +1,11 @@
 # Programmers Answer
 - Programmers Algorithm site : <https://programmers.co.kr/>
+- Python3 문제만 다루며, 답안 또한 python3로 작성되었습니다
 - 문제가 변경되거나 빠진 풀이가 있다면 issue를 남겨주시면 됩니다
 - 본 풀이는 스스로 풀었기에 최적이 아닐 수 있음을 미리 알려드립니다
 
 ### Level 1
+- [2018 KAKAO BLIND RECRUITMENT] [1차] 비밀지도
 - [2020 KAKAO BLIND RECRUITMENT] 문자열 압축
 - [서머코딩_윈터코딩(~2018)] 예산
 - [연습문제] 2016년
