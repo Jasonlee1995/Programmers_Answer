@@ -6,6 +6,7 @@
 
 ### Level 1
 - [2018 KAKAO BLIND RECRUITMENT] [1차] 비밀지도
+- [2019 KAKAO BLIND RECRUITMENT] 실패율
 - [2020 KAKAO BLIND RECRUITMENT] 문자열 압축
 - [서머코딩_윈터코딩(~2018)] 예산
 - [연습문제] 2016년
