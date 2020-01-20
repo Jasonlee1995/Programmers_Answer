@@ -5,6 +5,7 @@
 - 본 풀이는 스스로 풀었기에 최적이 아닐 수 있음을 미리 알려드립니다
 
 ### Level 1
+- [2018 KAKAO BLIND RECRUITMENT] [1차] 다트 게임
 - [2018 KAKAO BLIND RECRUITMENT] [1차] 비밀지도
 - [2019 KAKAO BLIND RECRUITMENT] 실패율
 - [2020 KAKAO BLIND RECRUITMENT] 문자열 압축
