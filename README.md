@@ -23,7 +23,7 @@
 - [[연습문제] 문자열을 정수로 바꾸기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%EC%9D%84%20%EC%A0%95%EC%88%98%EB%A1%9C%20%EB%B0%94%EA%BE%B8%EA%B8%B0.ipynb)
 - [[연습문제] 서울에서 김서방 찾기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%84%9C%EC%9A%B8%EC%97%90%EC%84%9C%20%EA%B9%80%EC%84%9C%EB%B0%A9%20%EC%B0%BE%EA%B8%B0.ipynb)
 - [[연습문제] 소수 찾기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%86%8C%EC%88%98%20%EC%B0%BE%EA%B8%B0.ipynb)
-- [[연습문제] 수박수박수박수박수박수?](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%3F.ipynb)
+- [[연습문제] 수박수박수박수박수박수?](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%EB%B0%95%EC%88%98%20.ipynb)
 - [[연습문제] 시저 암호](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%8B%9C%EC%A0%80%20%EC%95%94%ED%98%B8.ipynb)
 - [[연습문제] 약수의 합](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%95%BD%EC%88%98%EC%9D%98%20%ED%95%A9.ipynb)
 - [[연습문제] 이상한 문자 만들기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%9D%B4%EC%83%81%ED%95%9C%20%EB%AC%B8%EC%9E%90%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
@@ -61,6 +61,7 @@
 - [연습문제] 가장 큰 정사각형 찾기
 - [연습문제] 다음 큰 숫자
 - [연습문제] 땅따먹기
+- [연습문제] 숫자의 표현
 - [연습문제] 올바른 괄호
 - [완전탐색] 소수 찾기
 - [완전탐색] 숫자 야구
