@@ -50,6 +50,7 @@
 - [2017 팁스다운] 예상 대진표
 - [2017 팁스타운] 짝지어 제거하기
 - [2018 KAKAO BLIND RECRUITMENT] 뉴스 클러스터링
+- [2018 KAKAO BLIND RECRUITMENT] 캐시
 - [2018 KAKAO BLIND RECRUITMENT] 프렌즈4블록
 - [2020 KAKAO BLIND RECRUITMENT] 괄호 변환
 - [깊이_너비 우선 탐색] 타겟 넘버
