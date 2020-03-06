@@ -53,6 +53,7 @@
 - [2018 KAKAO BLIND RECRUITMENT] 캐시
 - [2018 KAKAO BLIND RECRUITMENT] 프렌즈4블록
 - [2019 KAKAO BLIND RECRUITMENT] 오픈채팅방
+- [2019 KAKAO BLIND RECRUITMENT] 후보키
 - [2020 KAKAO BLIND RECRUITMENT] 괄호 변환
 - [깊이_너비 우선 탐색] 타겟 넘버
 - [서머코딩_윈터코딩(~2018)] 소수 만들기
