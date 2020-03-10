@@ -49,6 +49,7 @@
 ### Level 2
 - [2017 팁스다운] 예상 대진표
 - [2017 팁스타운] 짝지어 제거하기
+- [2018 KAKAO BLIND RECRUITMENT] n진수 게임
 - [2018 KAKAO BLIND RECRUITMENT] 뉴스 클러스터링
 - [2018 KAKAO BLIND RECRUITMENT] 방금그곡
 - [2018 KAKAO BLIND RECRUITMENT] 압축
