@@ -99,6 +99,7 @@
 ### Level 3
 - [2018 KAKAO BLIND RECRUITMENT] 추석 트래픽
 - [서머코딩_윈터코딩(2019)] 종이접기
+- [연습문제] 2 x n 타일링
 
 
 ### Level 4
