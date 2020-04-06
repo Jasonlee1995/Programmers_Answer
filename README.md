@@ -7,6 +7,7 @@
 ### Level 1
 - [[2018 KAKAO BLIND RECRUITMENT] [1차] 다트 게임](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B2018%20KAKAO%20BLIND%20RECRUITMENT%5D%20%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.ipynb)
 - [[2018 KAKAO BLIND RECRUITMENT] [1차] 비밀지도](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B2018%20KAKAO%20BLIND%20RECRUITMENT%5D%20%5B1%EC%B0%A8%5D%20%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84.ipynb)
+- [2019 카카오 개발자 겨울 인턴십] 크레인 인형뽑기 게임
 - [[2019 KAKAO BLIND RECRUITMENT] 실패율](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B2019%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EC%8B%A4%ED%8C%A8%EC%9C%A8.ipynb)
 - [[2020 KAKAO BLIND RECRUITMENT] 문자열 압축](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B2020%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.ipynb)
 - [[서머코딩_윈터코딩(~2018)] 예산](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%84%9C%EB%A8%B8%EC%BD%94%EB%94%A9_%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9(~2018)%5D%20%EC%98%88%EC%82%B0.ipynb)
