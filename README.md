@@ -99,7 +99,7 @@
 - [[힙] 라면공장](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B%ED%9E%99%5D%20%EB%9D%BC%EB%A9%B4%EA%B3%B5%EC%9E%A5.ipynb)
 
 ### Level 3
-- [2018 KAKAO BLIND RECRUITMENT] 추석 트래픽
+- [2018 KAKAO BLIND RECRUITMENT] [1차] 추석 트래픽
 - [2020 KAKAO BLIND RECRUITMENT] 자물쇠와 열쇠
 - [그래프] 가장 먼 노드
 - [그래프] 순위
