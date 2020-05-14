@@ -106,6 +106,7 @@
 - [2020 KAKAO BLIND RECRUITMENT] 블록 이동하기
 - [2020 KAKAO BLIND RECRUITMENT] 외벽 점검
 - [2020 KAKAO BLIND RECRUITMENT] 자물쇠와 열쇠
+- [Summer_Winter Coding(~2018)] 기지국 설치
 - [Summer_Winter Coding(~2018)] 배달
 - [그래프] 가장 먼 노드
 - [그래프] 순위
