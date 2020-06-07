@@ -99,47 +99,46 @@
 - [[힙] 라면공장](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B%ED%9E%99%5D%20%EB%9D%BC%EB%A9%B4%EA%B3%B5%EC%9E%A5.ipynb)
 
 ### Level 3
-- [2018 KAKAO BLIND RECRUITMENT] [1차] 셔틀버스
-- [2018 KAKAO BLIND RECRUITMENT] [1차] 추석 트래픽
-- [2019 KAKAO BLIND RECRUITMENT] 길 찾기 게임
-- [2019 KAKAO BLIND RECRUITMENT] 매칭 점수
-- [2019 카카오 개발자 겨울 인턴십] 불량 사용자
-- [2019 카카오 개발자 겨울 인턴십] 징검다리 건너기
-- [2020 KAKAO BLIND RECRUITMENT] 기둥과 보 설치
-- [2020 KAKAO BLIND RECRUITMENT] 블록 이동하기
-- [2020 KAKAO BLIND RECRUITMENT] 외벽 점검
-- [2020 KAKAO BLIND RECRUITMENT] 자물쇠와 열쇠
-- [Summer_Winter Coding(~2018)] 기지국 설치
-- [Summer_Winter Coding(~2018)] 배달
-- [Summer_Winter Coding(~2018)] 숫자 게임
-- [그래프] 가장 먼 노드
-- [그래프] 순위
-- [깊이_너비 우선 탐색] 네트워크
-- [깊이_너비 우선 탐색] 단어 변환
-- [깊이_너비 우선 탐색] 여행경로
-- [동적계획법] 등굣길
-- [동적계획법] N으로 표현
-- [동적계획법] 정수 삼각형
-- [동적계획법] 타일 장식물
-- [서머코딩_윈터코딩(~2018)] 방문 길이
-- [서머코딩_윈터코딩(2019)] 종이접기
-- [연습문제] 2 x n 타일링
-- [연습문제] N-Queen
-- [연습문제] 가장 긴 팰린드롬
-- [연습문제] 거스름돈
-- [연습문제] 멀리 뛰기
-- [연습문제] 야근 지수
-- [연습문제] 줄 서는 방법
-- [연습문제] 최고의 집합
-- [연습문제] 하노이의 탑
-- [이분탐색] 예산
-- [이분탐색] 입국심사
-- [탐욕법] 단속카메라
-- [탐욕법] 섬 연결하기
-- [탐욕법] 저울
-- [해시] 베스트앨범
-- [힙] 디스크 컨트롤러
-- [힙] 이중우선순위큐
-
+- [[2018 KAKAO BLIND RECRUITMENT] [1차] 셔틀버스](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B2018%20KAKAO%20BLIND%20RECRUITMENT%5D%20%5B1%EC%B0%A8%5D%20%EC%85%94%ED%8B%80%EB%B2%84%EC%8A%A4.ipynb)
+- [[2018 KAKAO BLIND RECRUITMENT] [1차] 추석 트래픽](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B2018%20KAKAO%20BLIND%20RECRUITMENT%5D%20%5B1%EC%B0%A8%5D%20%EC%B6%94%EC%84%9D%20%ED%8A%B8%EB%9E%98%ED%94%BD.ipynb)
+- [[2019 KAKAO BLIND RECRUITMENT] 길 찾기 게임](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B2019%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EA%B8%B8%20%EC%B0%BE%EA%B8%B0%20%EA%B2%8C%EC%9E%84.ipynb)
+- [[2019 KAKAO BLIND RECRUITMENT] 매칭 점수](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B2019%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EB%A7%A4%EC%B9%AD%20%EC%A0%90%EC%88%98.ipynb)
+- [[2019 카카오 개발자 겨울 인턴십] 불량 사용자](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD%5D%20%EB%B6%88%EB%9F%89%20%EC%82%AC%EC%9A%A9%EC%9E%90.ipynb)
+- [[2019 카카오 개발자 겨울 인턴십] 징검다리 건너기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD%5D%20%EC%A7%95%EA%B2%80%EB%8B%A4%EB%A6%AC%20%EA%B1%B4%EB%84%88%EA%B8%B0.ipynb)
+- [[2020 KAKAO BLIND RECRUITMENT] 기둥과 보 설치](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B2020%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EA%B8%B0%EB%91%A5%EA%B3%BC%20%EB%B3%B4%20%EC%84%A4%EC%B9%98.ipynb)
+- [[2020 KAKAO BLIND RECRUITMENT] 블록 이동하기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B2020%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EB%B8%94%EB%A1%9D%20%EC%9D%B4%EB%8F%99%ED%95%98%EA%B8%B0.ipynb)
+- [[2020 KAKAO BLIND RECRUITMENT] 외벽 점검](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B2020%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EC%99%B8%EB%B2%BD%20%EC%A0%90%EA%B2%80.ipynb)
+- [[2020 KAKAO BLIND RECRUITMENT] 자물쇠와 열쇠](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B2020%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EC%9E%90%EB%AC%BC%EC%87%A0%EC%99%80%20%EC%97%B4%EC%87%A0.ipynb)
+- [[Summer_Winter Coding(~2018)] 기지국 설치](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5BSummer_Winter%20Coding(~2018)%5D%20%EA%B8%B0%EC%A7%80%EA%B5%AD%20%EC%84%A4%EC%B9%98.ipynb)
+- [[Summer_Winter Coding(~2018)] 배달](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5BSummer_Winter%20Coding(~2018)%5D%20%EB%B0%B0%EB%8B%AC.ipynb)
+- [[Summer_Winter Coding(~2018)] 숫자 게임](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5BSummer_Winter%20Coding(~2018)%5D%20%EC%88%AB%EC%9E%90%20%EA%B2%8C%EC%9E%84.ipynb)
+- [[그래프] 가장 먼 노드](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%20%EA%B0%80%EC%9E%A5%20%EB%A8%BC%20%EB%85%B8%EB%93%9C.ipynb)
+- [[그래프] 순위](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EA%B7%B8%EB%9E%98%ED%94%84%5D%20%EC%88%9C%EC%9C%84.ipynb)
+- [[깊이_너비 우선 탐색] 네트워크](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EA%B9%8A%EC%9D%B4_%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%5D%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC.ipynb)
+- [[깊이_너비 우선 탐색] 단어 변환](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EA%B9%8A%EC%9D%B4_%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%5D%20%EB%8B%A8%EC%96%B4%20%EB%B3%80%ED%99%98.ipynb)
+- [[깊이_너비 우선 탐색] 여행경로](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EA%B9%8A%EC%9D%B4_%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%5D%20%EC%97%AC%ED%96%89%EA%B2%BD%EB%A1%9C.ipynb)
+- [[동적계획법] 등굣길](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95%5D%20%EB%93%B1%EA%B5%A3%EA%B8%B8.ipynb)
+- [[동적계획법] 정수 삼각형](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95%5D%20%EC%A0%95%EC%88%98%20%EC%82%BC%EA%B0%81%ED%98%95.ipynb)
+- [[동적계획법] 타일 장식물](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95%5D%20%ED%83%80%EC%9D%BC%20%EC%9E%A5%EC%8B%9D%EB%AC%BC.ipynb)
+- [[동적계획법] N으로 표현](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EB%8F%99%EC%A0%81%EA%B3%84%ED%9A%8D%EB%B2%95%5D%20N%EC%9C%BC%EB%A1%9C%20%ED%91%9C%ED%98%84.ipynb)
+- [[서머코딩_윈터코딩(~2018)] 방문 길이](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%84%9C%EB%A8%B8%EC%BD%94%EB%94%A9_%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9(~2018)%5D%20%EB%B0%A9%EB%AC%B8%20%EA%B8%B8%EC%9D%B4.ipynb)
+- [[서머코딩_윈터코딩(2019)] 종이접기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%84%9C%EB%A8%B8%EC%BD%94%EB%94%A9_%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9(2019)%5D%20%EC%A2%85%EC%9D%B4%EC%A0%91%EA%B8%B0.ipynb)
+- [[연습문제] 2 x n 타일링](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%202%20x%20n%20%ED%83%80%EC%9D%BC%EB%A7%81.ipynb)
+- [[연습문제] N-Queen](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20N-Queen.ipynb)
+- [[연습문제] 가장 긴 팰린드롬](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EA%B0%80%EC%9E%A5%20%EA%B8%B4%20%ED%8C%B0%EB%A6%B0%EB%93%9C%EB%A1%AC.ipynb)
+- [[연습문제] 거스름돈](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EA%B1%B0%EC%8A%A4%EB%A6%84%EB%8F%88.ipynb)
+- [[연습문제] 멀리 뛰기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EB%A9%80%EB%A6%AC%20%EB%9B%B0%EA%B8%B0.ipynb)
+- [[연습문제] 야근 지수](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%95%BC%EA%B7%BC%20%EC%A7%80%EC%88%98.ipynb)
+- [[연습문제] 줄 서는 방법](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95.ipynb)
+- [[연습문제] 최고의 집합](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9.ipynb)
+- [[연습문제] 하노이의 탑](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.ipynb)
+- [[이분탐색] 예산](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%5D%20%EC%98%88%EC%82%B0.ipynb)
+- [[이분탐색] 입국심사](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%5D%20%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.ipynb)
+- [[탐욕법] 단속카메라](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%ED%83%90%EC%9A%95%EB%B2%95%5D%20%EB%8B%A8%EC%86%8D%EC%B9%B4%EB%A9%94%EB%9D%BC.ipynb)
+- [[탐욕법] 섬 연결하기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%ED%83%90%EC%9A%95%EB%B2%95%5D%20%EC%84%AC%20%EC%97%B0%EA%B2%B0%ED%95%98%EA%B8%B0.ipynb)
+- [[탐욕법] 저울](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%ED%83%90%EC%9A%95%EB%B2%95%5D%20%EC%A0%80%EC%9A%B8.ipynb)
+- [[해시] 베스트앨범](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%ED%95%B4%EC%8B%9C%5D%20%EB%B2%A0%EC%8A%A4%ED%8A%B8%EC%95%A8%EB%B2%94.ipynb)
+- [[힙] 디스크 컨트롤러](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%ED%9E%99%5D%20%EB%94%94%EC%8A%A4%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A1%A4%EB%9F%AC.ipynb)
+- [[힙] 이중우선순위큐](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%ED%9E%99%5D%20%EC%9D%B4%EC%A4%91%EC%9A%B0%EC%84%A0%EC%88%9C%EC%9C%84%ED%81%90.ipynb)
 
 ### Level 4
