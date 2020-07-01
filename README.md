@@ -43,6 +43,7 @@
 - [[연습문제] 행렬의 덧셈](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%ED%96%89%EB%A0%AC%EC%9D%98%20%EB%8D%A7%EC%85%88.ipynb)
 - [[완전탐색] 모의고사](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%99%84%EC%A0%84%ED%83%90%EC%83%89%5D%20%EB%AA%A8%EC%9D%98%EA%B3%A0%EC%82%AC.ipynb)
 - [[정렬] K번째수](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%A0%95%EB%A0%AC%5D%20K%EB%B2%88%EC%A7%B8%EC%88%98.ipynb)
+- [카카오 인턴십] 키패드 누르기
 - [[탐욕법] 체육복](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%ED%83%90%EC%9A%95%EB%B2%95%5D%20%EC%B2%B4%EC%9C%A1%EB%B3%B5.ipynb)
 - [[해시] 완주하지 못한 선수](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%ED%95%B4%EC%8B%9C%5D%20%EC%99%84%EC%A3%BC%ED%95%98%EC%A7%80%20%EB%AA%BB%ED%95%9C%20%EC%84%A0%EC%88%98.ipynb)
 
