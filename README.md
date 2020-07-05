@@ -61,7 +61,7 @@
 - [[2019 KAKAO BLIND RECRUITMENT] 오픈채팅방](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B2019%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EC%98%A4%ED%94%88%EC%B1%84%ED%8C%85%EB%B0%A9.ipynb)
 - [[2019 KAKAO BLIND RECRUITMENT] 후보키](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B2019%20KAKAO%20BLIND%20RECRUITMENT%5D%20%ED%9B%84%EB%B3%B4%ED%82%A4.ipynb)
 - [[2020 KAKAO BLIND RECRUITMENT] 괄호 변환](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B2020%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.ipynb)
-- [2020 카카오 인턴십] 수식 최대화
+- [[2020 카카오 인턴십] 수식 최대화](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B2020%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%EC%8B%AD%5D%20%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.ipynb)
 - [[깊이_너비 우선 탐색] 타겟 넘버](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B%EA%B9%8A%EC%9D%B4_%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%5D%20%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.ipynb)
 - [[서머코딩_윈터코딩(~2018)] 소수 만들기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B%EC%84%9C%EB%A8%B8%EC%BD%94%EB%94%A9_%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9(~2018)%5D%20%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
 - [[서머코딩_윈터코딩(~2018)] 스킬트리](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B%EC%84%9C%EB%A8%B8%EC%BD%94%EB%94%A9_%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9(~2018)%5D%20%EC%8A%A4%ED%82%AC%ED%8A%B8%EB%A6%AC.ipynb)
