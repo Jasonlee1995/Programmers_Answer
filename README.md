@@ -142,6 +142,7 @@
 - [[연습문제] 줄 서는 방법](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%A4%84%20%EC%84%9C%EB%8A%94%20%EB%B0%A9%EB%B2%95.ipynb)
 - [[연습문제] 최고의 집합](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%EC%B5%9C%EA%B3%A0%EC%9D%98%20%EC%A7%91%ED%95%A9.ipynb)
 - [[연습문제] 하노이의 탑](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%20%ED%95%98%EB%85%B8%EC%9D%B4%EC%9D%98%20%ED%83%91.ipynb)
+- [월간 코드 챌린지 시즌1] 스타 수열
 - [[월간 코드 챌린지 시즌1] 풍선 터트리기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%9B%94%EA%B0%84%20%EC%BD%94%EB%93%9C%20%EC%B1%8C%EB%A6%B0%EC%A7%80%20%EC%8B%9C%EC%A6%8C1%5D%20%ED%92%8D%EC%84%A0%20%ED%84%B0%ED%8A%B8%EB%A6%AC%EA%B8%B0.ipynb)
 - [[이분탐색] 예산](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%5D%20%EC%98%88%EC%82%B0.ipynb)
 - [[이분탐색] 입국심사](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_3/%5B%EC%9D%B4%EB%B6%84%ED%83%90%EC%83%89%5D%20%EC%9E%85%EA%B5%AD%EC%8B%AC%EC%82%AC.ipynb)
