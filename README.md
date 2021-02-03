@@ -11,7 +11,7 @@
 - [[2019 카카오 개발자 겨울 인턴십] 크레인 인형뽑기 게임](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B2019%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EA%B0%9C%EB%B0%9C%EC%9E%90%20%EA%B2%A8%EC%9A%B8%20%EC%9D%B8%ED%84%B4%EC%8B%AD%5D%20%ED%81%AC%EB%A0%88%EC%9D%B8%20%EC%9D%B8%ED%98%95%EB%BD%91%EA%B8%B0%20%EA%B2%8C%EC%9E%84.ipynb)
 - [[2019 KAKAO BLIND RECRUITMENT] 실패율](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B2019%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EC%8B%A4%ED%8C%A8%EC%9C%A8.ipynb)
 - [[2020 KAKAO BLIND RECRUITMENT] 문자열 압축](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B2020%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EC%95%95%EC%B6%95.ipynb)
-- [2021 KAKAO BLIND RECRUITMENT] 신규 아이디 추천
+- [[2021 KAKAO BLIND RECRUITMENT] 신규 아이디 추천](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B2021%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EC%8B%A0%EA%B7%9C%20%EC%95%84%EC%9D%B4%EB%94%94%20%EC%B6%94%EC%B2%9C.ipynb)
 - [[2020 카카오 인턴십] 키패드 누르기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B2020%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%EC%8B%AD%5D%20%ED%82%A4%ED%8C%A8%EB%93%9C%20%EB%88%84%EB%A5%B4%EA%B8%B0.ipynb)
 - [[서머코딩_윈터코딩(~2018)] 예산](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%84%9C%EB%A8%B8%EC%BD%94%EB%94%A9_%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9(~2018)%5D%20%EC%98%88%EC%82%B0.ipynb)
 - [[연습문제] 2016년](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B%EC%97%B0%EC%8A%B5%EB%AC%B8%EC%A0%9C%5D%202016%EB%85%84.ipynb)
