@@ -1,9 +1,12 @@
 # Programmers Answer
-- Recent Update : 3 Feb 2021
+- Recent Update : 9 Feb 2021
 - Programmers Algorithm site : <https://programmers.co.kr/>
 - Python3 문제만 다루며, 답안 또한 python3로 작성되었습니다
-- 문제가 변경되거나 빠진 풀이가 있다면 issue를 남겨주시면 됩니다
-- 본 풀이는 스스로 풀었기에 최적이 아닐 수 있음을 미리 알려드립니다
+- 본 풀이는 스스로 풀었기에 최적이 아닐 수 있습니다
+- 다음과 같은 경우에 해당될 시 issue를 남겨주시기 바랍니다
+  * 문제의 변경으로 인한 코드와 문제간의 괴리
+  * 문제의 테스트 케이스 변경으로 인한 통과 불가
+  * 해당 코드의 이용 및 배포 관련 문의
 
 ### Level 1
 - [[2018 KAKAO BLIND RECRUITMENT] [1차] 다트 게임](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_1/%5B2018%20KAKAO%20BLIND%20RECRUITMENT%5D%20%5B1%EC%B0%A8%5D%20%EB%8B%A4%ED%8A%B8%20%EA%B2%8C%EC%9E%84.ipynb)
@@ -67,6 +70,7 @@
 - [[2019 KAKAO BLIND RECRUITMENT] 후보키](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B2019%20KAKAO%20BLIND%20RECRUITMENT%5D%20%ED%9B%84%EB%B3%B4%ED%82%A4.ipynb)
 - [[2020 KAKAO BLIND RECRUITMENT] 괄호 변환](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B2020%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EA%B4%84%ED%98%B8%20%EB%B3%80%ED%99%98.ipynb)
 - [[2021 KAKAO BLIND RECRUITMENT] 순위 검색](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B2021%20KAKAO%20BLIND%20RECRUITMENT%5D%20%EC%88%9C%EC%9C%84%20%EA%B2%80%EC%83%89.ipynb)
+- [2021 KAKAO BLIND RECRUITMENT] 메뉴 리뉴얼
 - [[2020 카카오 인턴십] 수식 최대화](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B2020%20%EC%B9%B4%EC%B9%B4%EC%98%A4%20%EC%9D%B8%ED%84%B4%EC%8B%AD%5D%20%EC%88%98%EC%8B%9D%20%EC%B5%9C%EB%8C%80%ED%99%94.ipynb)
 - [[깊이_너비 우선 탐색] 타겟 넘버](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B%EA%B9%8A%EC%9D%B4_%EB%84%88%EB%B9%84%20%EC%9A%B0%EC%84%A0%20%ED%83%90%EC%83%89%5D%20%ED%83%80%EA%B2%9F%20%EB%84%98%EB%B2%84.ipynb)
 - [[서머코딩_윈터코딩(~2018)] 소수 만들기](https://github.com/Jasonlee1995/Programmers_answer/blob/master/Level_2/%5B%EC%84%9C%EB%A8%B8%EC%BD%94%EB%94%A9_%EC%9C%88%ED%84%B0%EC%BD%94%EB%94%A9(~2018)%5D%20%EC%86%8C%EC%88%98%20%EB%A7%8C%EB%93%A4%EA%B8%B0.ipynb)
